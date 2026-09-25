@@ -1,0 +1,10 @@
+{
+  "appId": "com.petfeeder.app",
+  "appName": "Smart Pet Feeder",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

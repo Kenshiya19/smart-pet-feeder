@@ -1,0 +1,6 @@
+{
+  "name": "Smart Pet Feeder",
+  "description": "Smart Pet Feeder mobile application with automated feeding schedules, instant manual dispensing, food hopper monitoring, consumption analytics, and ESP32 device controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
